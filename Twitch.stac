@@ -4,6 +4,8 @@
 
 %
 	infobox (
+		infobox_image ( "Twitch.png", "Logo Twitch"
+		);
 		infobox_portal_internetowy ( "@https://twitch.tv"
 		);
 	);
