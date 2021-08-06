@@ -1,0 +1,26 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = xKarmell
+
+%
+	infobox (
+		infobox_image ("xKarmell.jpg", "xKarmell (2020)");
+		infobox_twitch (
+			"lutego 2020", "listopada 2020", "xKarmell"
+		);
+	);
+%
+
+<b>xKarmell</b> - % href("Polska|polski"); % % href("streamer"); %.
+Prowadzi % href("kanał"); % na platformie % href("Twitch"); %.
+
+% h(2, "Życiorys"); %
+Jego wczesne dzieciństwo nie jest znane, choć według znanych mu osób
+zdołał ukończyć % href("Szkoła podstawowa|szkołę podstawową"); %.
+Rozpoczął % href("Streaming|streamowanie"); % w % href("Luty|lutym"); %
+% href("2020"); % roku pod pseudonimem <b>xKarmell</b>. Kilka miesięcy
+później, w % href("Listopad|listopadzie"); % tego samego roku został
+uprowadzony przez % href("Komornik|komornika"); % z ramienia partii
+% href("Prawo i Sprawiedliwość"); %
+co sprawiło, że przestał streamować. Według doniesień świadków przetrzymywany
+jest w % href("Strefa 69|Strefie 69"); % w % href("Bydgoszcz"); %y.

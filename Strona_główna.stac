@@ -1,0 +1,116 @@
+@<#include <functions/libwiki.c>
+@title = Strona główna
+
+<div class="box">
+	<p style="font-size: 200% PERCENT %">
+		<b>Witamy w % href("TNTpedia|TNTpedii"); %</b>, szybkiej encyklopedii.
+	</p>
+	<p>
+		TNTpedia to źródło najnierzetelniejszych informacji w
+		internecie. Znajduje się tutaj wiele zrobionych na odpi**dol
+		artykułów. TNTpedię może edytować każdy, ale treść artykułów
+		musi zostać zatwierdzona przez administrację. Zapraszamy do
+		edycji oraz korzystania z tej wielkiej bazy wiedzy!
+	</p>
+</div>
+
+<style>
+	.box-dark a {
+		color: #fdf6e3;
+	}
+	.box-light a {
+		color: #010a2a;
+	}
+</style>
+
+<!-- Left column -->
+<div id="col-left" style="float: left; width: calc(50% PERCENT %)">
+	<div class="box box-dark" style="
+		background: linear-gradient(103deg, #3c3b3f, #605c3c);
+		color: #ebdbb2">
+		<p style="font-size: 150% PERCENT %">
+			🕑 <b>Ostatnio edytowane</b> w szybkiej encyklopedii:
+		</p>
+		<p><div>
+			<ol style="text-align: left; margin-bottom: 0px"> %
+				system("ls -t in/"
+					"| grep -v 'Specjalna:'"
+					"| head -n 20"
+					"| awk '{printf \"<li><a href=\\\"\"; gsub(/\\.stac$/, \"\"); printf(\"\x25s\", $0); printf \"\\\">\"; gsub(/_/, \" \"); printf(\"\x25s\", $0); printf(\"</a></li>\\n\")}'"
+					/* "| sed '10a </ol><ol start=\"11\" id=\"najnowsze-bottom\" style=\"text-align: left; margin-top: 0px\">'" */
+				);
+			% </ol>
+		</div></p>
+	</div>
+</div>
+
+<!-- Right column -->
+<div id="col-right" style="float: left; width: calc(50% PERCENT %)">
+	<div class="box box-dark zloty-artykul-gradient">
+		<p style="font-size: 150% PERCENT %">
+			🥇 <b>Złoty artykuł na medal</b><br />
+			<span class="small">szybkiej encyklopedii:</span><br />
+			<span class="smaller">sierpień 2021</span>
+		</p>
+		<div style="text-align: left">
+			<p>
+				<h3>Wielki Chungus</h3>
+				<b>Wielki Chungus</b> (% href("język angielski|ang."); % <i>Big Chungus</i>;
+				% href("język arabski|ar."); % <i>chungus كبير</i>) - % href("Niger|nigeryjski"); %
+				% href("działacz społeczny"); %, % href("polityk"); % i % href("ginekolog"); % pochodzenia
+				% href("Polska|polskiego"); % urodzony 9 września 1991 roku w
+				% href("Lipinki Łużyckie|Lipinkach Łużyckich"); %, pierwszy
+				% href("prezydent na uchodźstwie"); % % href("Niger|Nigru"); %.
+			</p>
+		</div>
+		<div style="text-align: right">
+			% href("Wielki Chungus|Czytaj dalej..."); %
+		</div>
+	</div>
+
+	<div class="box box-light srebrny-artykul-gradient">
+		<p style="font-size: 150% PERCENT %">
+			🥈 <b>Srebrny artykuł na medal</b><br />
+			<span class="small">szybkiej encyklopedii:</span><br />
+			<span class="smaller">sierpień 2021</span>
+		</p>
+		<div style="text-align: left">
+			<p>
+				<h3>homik w denaturacie xddd</h3>
+				<b>homik w denaturacie xddd</b> (% href("język angielski|ang."); %
+				<i>hamstr in denaturate xddd</i>; właśc. <b>Kurde Niefajna Sprawa</b>;
+				ur. % href("2016"); % w % href("Denaturat|Denaturacie"); %) - znany
+				% href("Ornitolog|ornitolog"); %, programista, twórca serwisu %
+				href("Chomikuj.pl"); %.
+			</p>
+		</div>
+		<div style="text-align: right">
+			% href("homik w denaturacie|Czytaj dalej..."); %
+		</div>
+	</div>
+
+	<div class="box box-dark brazowy-artykul-gradient">
+		<p style="font-size: 150% PERCENT %">
+        	🥉 <b>Brązowy artykuł na medal</b><br />
+			<span class="small">szybkiej encyklopedii:</span><br />
+			<span class="smaller">sierpień 2021</span>
+		</p>
+		<div style="text-align: left">
+			<p>
+				<h3>DonWasil</h3>
+				<b>DonWasil</b> (właśc. <b>Sebastian</b>; ur.
+				% href("1999"); % w % href("Polska|Polsce"); %) -
+				polski % href("Streamer|streamer"); % zamieszkały w
+				% href("Wielka Brytania|Wielkiej Brytanii"); %.
+				Prowadzi % href("kanał"); % na platformie
+				% href("Twitch"); %.
+			</p>
+		</div>
+		<div style="text-align: right">
+			% href("DonWasil|Czytaj dalej..."); %
+		</div>
+	</div>
+</div>
+
+<div style="clear: both">
+</div>

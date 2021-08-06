@@ -1,0 +1,84 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@<#include <functions/imagine.c>
+@title = DraXu
+
+%
+	infobox (
+		infobox_subtitle ("Wojciech Tomasik");
+		infobox_image ("DraXu.png", "DraXu (2021)");
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce urodzenia %,
+				% 28 lub 29 lutego 2004, % href("Województwo lubelskie"); %, % href("Polska");
+			);
+			infobox_table_row (
+				% Imię i nazwisko %,
+				% Wojciech Tomasik %
+			);
+			infobox_table_row (
+				% Pseudonim %,
+				% DraXu, DraXu69_, draxu 69, draxsymilian2004minecraft %
+			);
+			infobox_table_row (
+				% Strona internetowa %,
+				href("@https://dr4x.life|dr4x.life")
+			);
+		);
+		infobox_twitch (
+			"jakiegoś czasu", "teraz", "DraXu"
+		);
+		infobox_youtube (
+			"2016", "teraz", "channel/UCZMa6bBtZyMXiKpalJB0AGA|DraXu"
+		);
+	);
+%
+
+<p>
+	<b>DraXu</b> (właśc. <b>Wojciech Tomasik</b>; ur. % href("2004"); % w
+	% href("Polska|Polsce"); %) - % href("Polska|polski"); %
+	% href("streamer"); %, % href("gracz harmonijki"); %,
+	% href("programista"); % prowadzi % href("kanał"); % na platformie
+	% href("Twitch"); % oraz % href("YouTube"); %.
+	Jeden z % href("Twórca|twórców"); % % href("TNTpedia|TNTpedii"); %.
+	Twórca % href("Zanjiawka|zanjiawki"); %.
+	Autor wielu % href("Program komputerowy|programów komputerowych"); %.
+</p>
+
+% h(2, "Życiorys"); %
+% h(3, "Narodziny"); %
+<p>
+	Urodził się w % href("Polska|Polsce"); % % href("28 lutego|28"); % lub %
+	href("29 lutego"); % % href("2004"); % roku w % href("Województwo "
+	"lubelskie|województwie lubelskim"); %. Dokładna data jego urodzin nie
+	jest znana, ponieważ podczas jego narodzin w % href("szpital"); %
+	uderzył meteororyt co sprawiło, że % href("lekarz"); %e nie zapisali
+	dokładnej daty narodzin. Krąży % href("Legenda|legenda"); %, że jego %
+	href("akt urodzenia"); % został pojmany przez % href("homik w denaturacie|"
+	"homika w denaturacie"); %, opublikowany na % href("Chomikuj.pl"); %,
+	a następnie spalony przy użyciu % href("Zapałka|zapałki"); % na specjalnie
+	przygotowanym palenisku utworzonym z 17 ułożonych w kształt
+	% href("Butelka|butelki"); % % href("Denaturat|denaturatu"); % patyków.
+	Nikt nigdy nie widział jego aktu urodzenia, a homik w denaturacie widziany
+	był przez % href("Piotr Gryf|Piotra Gryfa"); % i kilka innych osób w
+	pobliżu % href("Dom dziecka im. Jarosława Kaczyńskiego w Lublinie|"
+	"Domu dziecka im. Jarosława Kaczyńskiego w Lublinie"); % w pobliżu którego
+	przebywał wtedy <b>DraXu</b>.
+</p>
+
+% h(3, "Edukacja"); %
+<p>
+	Ukończył % href("Szkoła podstawowa|szkołę podstawową"); %, uczęszcza do %
+	href("Technikum"); %, według doniesień mediów planuje zostać
+	% href("ginekolog"); %iem - planuje idać się na
+	% href("Politechnika Bydgoska|Politechnikę Bydgoską"); % w
+	% href("Bydgoszcz"); %y. Napisał już nawet % href("praca magisterska|"
+	"pracę magisterską"); %, jednak nie chce jej na razie upublicznić.
+
+</p>
+
+% imagine("DraXuKonsumuje.png", "DraXu udaje włoskiego krytyka kulinarnego (rzadkie ujęcie przedstawiające szczęście)"); %
+
+% imagine("DraXuGenerator.png", "DraXu generuje filmy na swój kanał na YouTube przy użyciu AI napisanego w Asemblerze na procesor kalkulatora TI83 (kod źródłowy nieznany)"); %
+
+% imagine("DraXuStatue.png", "DraXu w muzeum (jak on się tam znalazł?)"); %

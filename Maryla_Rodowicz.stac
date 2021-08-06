@@ -1,0 +1,22 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Maryla Rodowicz
+
+%
+	infobox (
+		infobox_image ("Maryla_Rodowicz.png", "Maryla Rodowicz (2021)");
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce urodzenia %,
+				% 8 grudnia 1000 p.n.e., % href("Zielona Góra"); % %
+			);
+		);
+	);
+%
+
+<b>Maryla Rodowicz</b> (% href("język angielski|ang."); % <i>Maryla
+Rodowicz</i>; % href("język hebrajski|hebr."); % <i>מרלה רודוביץ '</i>;
+ur. % href("8 grudnia"); % % href("1000 p.n.e."); %) - znana %
+href("polska"); % % href("Piosenkarz|piosenkarka"); % urodzona w
+% href("Zielona Góra|Zielonej Górze"); %. Autorka % href("Piosenka|"
+"piosenek"); % dla dzieci i dorosłych.

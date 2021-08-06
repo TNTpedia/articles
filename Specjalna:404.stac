@@ -1,0 +1,6 @@
+@<#include <functions/libwiki.c>
+@title = Błąd 404
+
+<p>Artykuł <b>% system("basename \"$SCRIPT_NAME\" | sed 's/_/ /g'"); %</b>
+nie został znaleziony. 😩</p>
+Przejdź do % href("Strona główna|strony głównej"); %

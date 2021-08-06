@@ -1,0 +1,20 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@<#include <functions/imagine.c>
+@title = Piotr Gryf
+
+%
+	infobox (
+		infobox_image ("Piotr_Gryf.png", "Piotr Gryf");
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce urodzenia %,
+				% 6 września 1969, % href("Kraków"); % %
+			);
+		);
+	);
+%
+
+<b>Piotr Gryf</b> (% href("język angielski|ang."); % <i>Peter Griffin</i>)
+
+% imagine ("Piotr_Gryf_Głowa_Rodziny.png", "Piotrek w serialu Głowa Rodziny"); %

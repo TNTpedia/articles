@@ -1,0 +1,42 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@<#include <functions/imagine.c>
+@title = CienkaAluzja
+
+%
+	infobox (
+		infobox_subtitle ("Łucja");
+		infobox_image ("CienkaAluzja.png", "CienkaAluzja (2021)");
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce urodzenia %,
+				% 2004, % href("Polska");
+			);
+			infobox_table_row (
+				% Płeć %,
+				% niemęskoosobowa %
+			);
+		);
+		infobox_twitch (
+			"2020 (?)", "teraz", "CienkaAluzja"
+		);
+	);
+%
+
+<p>
+	<b>CienkaAluzja</b> (% href("język angielski|ang."); % <i>ThinAllusion</i>
+	właśc. <b>Łucja</b>; ur. % href("2004"); % w % href("Polska|Polsce"); %) -
+	polski % href("streamer"); % % href("Płeć|płci"); %
+	% href("Kobieta|niemęskoosobowej"); %, % href("Gitarzysta|gitarzystka"); %.
+	Prowadzi % href("kanał"); % na platformie % href("Twitch"); %.
+</p>
+
+% h(2, "Życiorys"); %
+<p>
+</p>
+
+% h(2, "Poglądy"); %
+<p>
+	% imagine("CienkaAluzjaNarodowiec.png", "Łucja prezentuje poglądy narodowo-bydgoskie"); %
+	% /* imagine("CienkaAluzjaNazista.png", "Łucja prezentuje poglądy nazistowskie"); */ %
+</p>

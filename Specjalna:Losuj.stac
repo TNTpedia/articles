@@ -1,0 +1,5 @@
+@title = Losowa strona
+Losowanie strony...
+<meta http-equiv="Refresh" content="0; url='% $$(ROOTDIR); lsprintf("wiki/"); system("basename $(ls in | shuf | head -n1) .stac"); %'" />
+<br />
+<a href="% $$(ROOTDIR); lsprintf("wiki/"); system("basename $(ls in | grep -v 'Specjalna:' | shuf | head -n1) .stac"); %">Przejdź do wylosowanej strony</a>

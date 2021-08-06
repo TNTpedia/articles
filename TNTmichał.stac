@@ -1,0 +1,51 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = TNTmichał
+
+%
+	infobox (
+		infobox_subtitle ("Michał Ziora");
+		infobox_image ("TNTmichał.png", "TNTmichał (2021)");
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce urodzenia %,
+				% 2006, % href("Polska");
+			);
+		);
+		infobox_twitch (
+			"2020", "teraz", "TNTmichał"
+		);
+		infobox_youtube (
+			"2017", "teraz", "channel/UCTbQ-cWHnEsls-Qb6Vvmrnw|TNTmichał"
+		);
+	);
+%
+
+<p>
+	<b>TNTmichał</b> (właśc. <b>Michał Ziora</b>; ur. % href("2006"); % w
+	% href("Polska|Polsce"); %) - % href("Polska|polski"); %
+	% href("streamer"); %, prowadzi % href("kanał"); % na platformie
+	% href("Twitch"); %. Patron oraz jeden z % href("Twórca|twórców"); %
+	% href("TNTpedia|TNTpedii"); %.
+</p>
+
+% h(2, "Życiorys"); %
+Urodził się w % href("Polska|Polsce"); % w wieku % href("0"); % lat.
+
+% h(2, "Twórczość internetowa"); %
+% h(3, "Kanał YouTube"); %
+<p>
+	<b>TNTmichał</b> prowadzi kanał w serwisie % href("YouTube"); % na
+	którym umieszczane są materiały. Pierwszy materiał pojawił się
+	% href("19 lutego"); % % href("2017"); % i zatytułowany jest
+	<i>"% href("Mój wypadek XD"); %"</i>. Przedstawia on wypadek TNTmichała.
+</p>
+% h(3, "Kanał Twitch"); %
+<p>
+	<b>TNTmichał</b> prowadzi również kanał w serwisie % href("Twitch");
+	% który używany jest do % href("Streaming|streamowania"); %.
+</p>
+% h(3, "TNTpedia"); %
+<p>
+	Jest jednym z twórców % href("TNTpedia|TNTpedii"); %.
+</p>

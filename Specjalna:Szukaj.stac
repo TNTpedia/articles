@@ -1,0 +1,45 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/parsequery.c>
+
+@<#include <stdlib.h>
+@<#include <stdio.h>
+
+@title = Szukaj artykułu
+
+<form method="GET">
+	<input type="text" name="q" placeholder="Wpisz frazę do wyszukania" />
+	<input type="submit" value="Szukaj" />
+</form>
+
+%
+	char *query = _GET("q");
+	if (query != NULL) {%
+		<br />
+		%{
+		setenv("SEARCH_QUERY", query, 1);
+		system(
+"grep -Ei \"($(echo \"$SEARCH_QUERY\""
+" | sed 's/+\\+/+/g;s/^+*//g;s/+*$//g;s/+/|/g'))\" in/ -R"
+" | grep -v \"^in/Specjalna:\""
+" | grep -o \"^[^:]*\""
+" | sort"
+" | uniq -c"
+" | sort -rn"
+" | while read line; do "
+	"COUNT=\"$("
+		"echo \"$line\""
+		" | cut -d' ' -f1"
+	")\"; "
+	"FILE=\"$("
+		"echo \"$line\""
+		" | cut -d' ' -f2"
+		" | sed 's|in/||g;s|.stac||g'"
+	")\"; "
+	"echo \"<a href=\\\"$(echo \"$FILE\")\\\">$(echo \"$FILE\" | sed 's|_| |g')</a> (<b>$COUNT</b> wystąpienia)<br />\"; "
+"done"
+		);
+
+		}%
+	%}
+	free(query);
+%

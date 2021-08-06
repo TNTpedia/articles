@@ -1,0 +1,13 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Polska
+
+%
+	infobox (
+		infobox_kraj ( "!Rzeczpospolita Polska", "Warszawa"
+		);
+	);
+%
+
+<p>
+<b>Polska</b> - kraj.

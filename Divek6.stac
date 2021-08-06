@@ -1,0 +1,65 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+
+@title = Divek6
+
+%
+	infobox (
+		infobox_subtitle ("Artur");
+		infobox_image ( "Divek6.jpg", "Divek6 (2021)"
+		);
+
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Rodzaj %, % Męskoosobowy %
+			);
+			infobox_table_row (
+				% Zawód %, % Instrumentalista, programista %
+			);
+			infobox_table_row (
+				% Instrumenty %, % Fortepian, gitara (w tym basowa), kalimba, ukulele, szklanki %
+			);
+		);
+
+		infobox_twitch ( "2021", "teraz", "Divek6"
+		);
+	);
+%
+
+<b>Divek6</b> (właśc. <b>Artur</b>) - % href("Polska|polski"); %
+% href("streamer"); %, % href("muzyk"); % i % href("programista"); %.
+Posiada kanał na platformie % href("Twitch"); %.
+
+% h(2, "Życiorys"); %
+% h(3, "Dzieciństwo"); %
+<p>
+% href("Data urodzenia"); % nie jest znana, choć naukowcy podejrzewają,
+iż był to % href("sierpień"); % % href("1492"); %. Ukończył
+% href("Szkoła podstawowa|szkołę podstawową"); %, % href("gimnazjum"); % oraz
+% href("liceum ogólnokształcące"); %. Podczas % href("matura|matury"); % wypił
+% href("Mikstura niewidzialności|miksturę niewidzialności"); % dzięki czemu
+uzyskał maksymalny wynik (173.28% PERCENT %).
+</p>
+% h(3, "Okres dojrzałości"); %
+<p>
+% href("studia|Studiował"); % przez 2 lata. Podczas studiów jego
+% href("broda"); % urosła o 23cm.
+Przestał studiować, gdy jego % href("Morderstwo rodziców Divka6|"
+"rodzice zostali zamordowani"); %. Przez te wydarzenia nabawił się
+% href("Problemy psychiczne|problemów psychicznych"); % i od tamtego czasu
+codziennie robi 5 pompek 3 salta i oraz tańczy % href("salsa|salsę"); % o
+godzinie 17:24.
+</p>
+% h(3, "Stan aktualny"); %
+<p>
+Aktualnie znajduje się w szpitalu psychiatrycznym w nieznanym
+miejscu i zajmuje się pisaniem kodu w % href("JavaScript|"
+"javie w wersji skrypt"); %. Zaczął również prowadzić kanał na platformie
+% href("Twitch"); %.
+</p>
+
+% h(2, "Instrumenty"); %
+<b>Artur</b> gra na wielu % href("instrument muzyczny|instrumentach "
+"muzycznych"); %: % href("Fortepian|fortepianie"); % (instrument główny),
+% href("gitara"); % (w tym % href("gitara basowa"); %), % href("kalimba"); %,
+% href("ukulele"); % oraz % href("Szklanka|szklanki"); %.

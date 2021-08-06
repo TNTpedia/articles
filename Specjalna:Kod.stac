@@ -1,0 +1,30 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/parsequery.c>
+
+@<#include <stdlib.h>
+@<#include <stdio.h>
+
+@title = Kod źródłowy
+%
+	char *article = _GET("artykul");
+	if (article == NULL) {
+		lsprintf("Nie podano artykułu.");
+	} else {%
+		%
+			char titlecmd[4096];
+			snprintf(titlecmd, sizeof titlecmd,
+					"echo '\x25s' | sed 's/_/ /g'",
+					article);
+		%
+		<p class="big">Przejdź do artykułu <a href="%$$(ROOTDIR); lsprintf("wiki/\x25s", article); %">% system(titlecmd); %</a></p>
+		<pre style="background-color: #0f0f0f; color: #fafafa; padding: 1em">%{
+			char cmd[4096];
+			snprintf(cmd, sizeof cmd,
+					"sed 's/\\&/\\&amp;/g;s/</\\&lt;/g;s/>/\\&gt;/g' 'in/\x25s.stac' ||"
+						"echo \"Artykuł <b>\x25s</b> nie istnieje!\"",
+					article, article);
+			system(cmd);
+		}%</pre>
+	%}
+	free(article);
+%

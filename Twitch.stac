@@ -1,0 +1,14 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Twitch
+
+%
+	infobox (
+		infobox_portal_internetowy ( "@https://twitch.tv"
+		);
+	);
+%
+
+<b>Twitch</b> - % href("Portal internetowy|portal internetowy"); %
+służący do % href("Streaming|streamowania"); % % href("Stream|streamów"); %
+przez % href("Streamer|streamerów"); %.

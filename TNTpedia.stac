@@ -1,0 +1,4 @@
+@<#include <functions/libwiki.c>
+
+@title = TNTpedia
+<b>TNTpedia</b> - % href("Szybkość|Szybka"); % % href("encyklopedia"); %.

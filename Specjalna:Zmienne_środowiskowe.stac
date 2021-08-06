@@ -1,0 +1,7 @@
+@<#include <functions/libwiki.c>
+@<#include <stdlib.h>
+@title = Zmienne środowiskowe
+
+<pre style="background-color: #0f0f0f; color: #fafafa; padding: 1em">%
+	system("printenv");
+%</pre>
