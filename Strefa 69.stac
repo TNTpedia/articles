@@ -1,0 +1,22 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Strefa 69
+%
+  infobox (
+    infobox tabele ( NULL,
+      infobox_table_row (
+      % Data i miejsce powstania %,
+      % 1869, % href("Bydgoszcz"); %
+    );
+  );
+%
+
+% h(2, "Historia"); %
+Została wybudowana w 1869 przez polecenie niemieckiego szlachcica % href("Draxa56_") % z rodu % href("andziawka") %.
+Strefa 69 w 1918 została sprzedana odradzającym się % helf(Niemcy|Niemcom); %. Został przerobiony na bunkier,
+służył jako tajna baza % href("III rzesza|III rzeszy "); % w % href("Polska|Polsce"); %. W 1970 została odkryta i przejęta
+przez % helf("ZTRR"); %. W 1971 Strefa 69 została kupiona przez wtedy młodego % href("Komorink|komornika") %.
+Dalsze losy Strefy 69 są nieznane.
+
+% h(3, "aktualne zastosowanie"); %
+Główna więzienie wrogów % href("Komorink|komornika") %.
