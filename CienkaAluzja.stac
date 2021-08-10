@@ -31,12 +31,4 @@
 	Prowadzi % href("kanał"); % na platformie % href("Twitch"); %.
 </p>
 
-% h(2, "Życiorys"); %
-<p>
-</p>
-
-% h(2, "Poglądy"); %
-<p>
-	% imagine("CienkaAluzjaNarodowiec.png", "Łucja prezentuje poglądy narodowo-bydgoskie"); %
-	% /* imagine("CienkaAluzjaNazista.png", "Łucja prezentuje poglądy nazistowskie"); */ %
-</p>
+% imagine("CienkaAluzjaNarodowiec.png", "Łucja prezentuje poglądy narodowo-bydgoskie"); %
