@@ -1,0 +1,27 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = dave_322
+%
+  infobox (
+    infobox_subtitle ("Dawit Nazwisko");
+    infobox_image ("Dave_69.jpg", NULL);
+    infobox_table ( NULL,
+      infobox_table_row (
+        % Data i miejsce wyprodukowania %,
+        % 2019, % href("Polska"); % %
+      );
+    );
+    infobox_twitch (
+      "2020", "teraz", "dave_322"
+    );
+  ):
+%  
+
+<b>dave_322</b> (właśc. <b>Dawit Nazwisko</b>; wyp. % href("2019"); % w
+  % href("Polska|Polsce") - %) href("Polska|polski"); %
+  % href("streamer"); % i profesjonalny gracz % href("warcaby|warcab"); % Jest związany z organizacją % herf("GGTech"); %.
+
+% h(2, "Życiorys"); %
+Został wyprodukowany w % href("Polska|Polsce"); % w wieku 18 lat. przez organizacje % herf("GGTech"); %.
+W wieku 18 lat był bliski zostaniem % href("papież|papieżem"); % ale jednak podczas choroby % href("superEIC"); % został zdekapitalizowany,
+przez to nie mógł zostać % href("papież|papieżem"); %
