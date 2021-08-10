@@ -2,15 +2,21 @@
 @<#include <functions/infobox.c>
 @title = Strefa 69
 %
-  infobox (
-    infobox_table ( NULL,
-      infobox_table_row (
-        % Data i miejsce powstania %,
-        % 1869, % href("Bydgoszcz"); % %
-      );
-    );
-  );
+	infobox (
+	infobox_image ("Strefa_69.png", "Reprodukcja Strefy 69");
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce powstania %,
+				% 1869, % href("Bydgoszcz"); % %
+			);
+		);
+	);
 %
+
+<b>Strefa 69</b> (% href("język łaciński|łac."); % <i>LXIX zona</i>) - tajna
+% href("baza wojskowa"); % wybudowana w % href("XIX wiek"); %u w
+% href("Bydgoszcz"); %y będąca w posiadaniu % href("Komornik"); %a.
+Przedstawiona również w grze % href("Grand Theft Auto: San Andreas"); %.
 
 % h(2, "Historia powstania"); %
 <p>
