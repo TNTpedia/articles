@@ -1,0 +1,48 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/imagine.c>
+@title = Futro
+
+<b>Futro</b> (% href("język angielski|ang."); % <i>fur</i>) - fragment %
+href("skóra|skóry"); %, pokryty gęstym % href("Futro|futrem"); %,
+starannie ściągnięty z martwego % href("Zwierzęta|zwierzęcia"); %.
+Może być również fragmentem skóry pokrytym gęstym futrem, lecz
+znajdującego się wciąż na ciele zwierzęcia, żywego bądź też martwego.
+Istnieją także futra nie pochodzące ze zwierząt (futra wegańskie).
+
+% h(2, "Rodzaje futra"); %
+<p>
+	Futro ma wiele rodzajów, każde futro jest też inne. Futro dzieli się
+	głównie na futro zwierzęce (naturalne) i niezwierzęce (wegańskie).
+</p>
+
+% h(3, "Futro zwierzęce"); %
+% imagine("FutroKota.png", "Futro dolno-brzuszne kota"); %
+<p>
+	Futro zwierzęce (naturalne) pochodzi ze % href("Zwierzęta|zwierząt"); %.
+	Każde futro zwierzęce miało kiedyś kontakt ze zwierzęciem i zostało przez
+	wyprodukowane przez zwierzę.
+</p>
+<p>
+	Futro naturalne mozna dodatkowo podzielić na <b>futro przyległe</b>, czyli
+	znajdujące się nadal na ciele zwierzęcia, oraz <b>futro nieprzyległe</b>,
+	czyli ściągnięte ze zwierzęcia.
+</p>
+
+% h(3, "Futro niezwierzęce"); %
+<p>
+	Futro niezwierzęce (wegańskie) nie powstało przy użyciu zwierząt co
+	sprawia że jest dopasowane do % href("dieta wegańska|diety "
+	"wegańskiej"); %. Jednak według opinii % href("dietetyk|dietetyków"); %
+	nie jest smaczne i średnio nadaje się do % href("konsumpcja|spożycia"); %
+	(powodem jest gorzki, plastikowy smak oraz cienkie włosy które
+	zostają w % href("jama ustna|jamie ustnej"); % po dokonanej konsumpcji).
+</p>
+<p>
+	Futro wegańskie nie dzieli się również na przyległe i nieprzyległe
+	jak w przypadku futra zwierzęcego.
+</p>
+
+% h(2, "Kiedy będzie futro?"); %
+<p>
+	% href("Jutro"); %
+</p>
