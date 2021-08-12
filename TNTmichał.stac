@@ -21,16 +21,16 @@
 	);
 %
 
-<p>
-	<b>TNTmichał</b> (właśc. <b>Michał Ziora</b>; ur. % href("2006"); % w
-	% href("Polska|Polsce"); %) - % href("Polska|polski"); %
-	% href("streamer"); %, prowadzi % href("kanał"); % na platformie
-	% href("Twitch"); %. Patron oraz jeden z % href("Twórca|twórców"); %
-	% href("TNTpedia|TNTpedii"); %.
-</p>
+<b>TNTmichał</b> (właśc. <b>Michał Ziora</b>; ur. % href("2006"); % w
+% href("Polska|Polsce"); %) - % href("Polska|polski"); %
+% href("streamer"); %, prowadzi % href("kanał"); % na platformie
+% href("Twitch"); %. Patron oraz jeden z % href("Twórca|twórców"); %
+% href("TNTpedia|TNTpedii"); %.
 
 % h(2, "Życiorys"); %
-Urodził się w % href("Polska|Polsce"); % w wieku % href("0"); % lat.
+<p>
+	Urodził się w % href("Polska|Polsce"); % w wieku % href("0"); % lat.
+</p>
 
 % h(2, "Twórczość internetowa"); %
 % h(3, "Kanał YouTube"); %
