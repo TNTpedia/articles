@@ -6,11 +6,45 @@
 	infobox (
 		infobox_image ( "Twitch.png", "Logo Twitch"
 		);
-		infobox_portal_internetowy ( "@https://twitch.tv"
+		infobox_portal_internetowy ( "@https://twitch.tv",
+			infobox_table_row( % Data powstania %, % czerwiec 2011 % );
 		);
 	);
 %
 
-<b>Twitch</b> - % href("Portal internetowy|portal internetowy"); %
+<b>Twitch</b>, twitch.tv - % href("Portal internetowy|portal internetowy"); %
 służący do % href("Streaming|streamowania"); % % href("Stream|streamów"); %
-przez % href("Streamer|streamerów"); %.
+przez % href("Streamer|streamerów"); % powstały w %
+href("Czerwiec|czerwcu"); % % href("2011"); %. Od niedawna także serwis %
+href("Pornografia|pornograficzny"); %.
+
+% h(2, "Historia"); %
+<p>
+	W % href("Marzec|marcu"); % % href("2011"); % z inicjatywy %
+	href("Komornik|komornika"); % 78 % href("programista|programistów"); %
+	przystąpiło do tworzenia nowego serwisu który miał zawładnąć światem.
+	Programiści tworzyli serwis bardzo szybko i już w połowie
+	% href("maj|maja"); % tego samego roku, serwis gotowy był do testów
+	% href("beta"); %. Oficjalnie, serwis uruchomiony został w %
+	href("czerwiec|czerwcu"); % tego samego roku.
+</p>
+<p>
+	3 lata później, widząc popularność serwisu, został on zakupiony
+	przez % href("Amazon"); % za 3 782 961.20 zł (kurs z dnia 11.08.2021).
+</p>
+
+% h(2, "Za co można dostać bana?"); %
+<p>
+	<b>Twitch</b> jest bardzo hipokryzyjnym serwisem. %
+	href("Ban|Banuje"); % on za użycie słów podobnych do %
+	href("Nigger|słowa na N"); %, czyli jeśli ktoś pochwali się, że pochodzi
+	% href("Niger|Nigru"); %. Bana można otrzymać także za jakiekolwiek
+	wspominanie o % href("Nazizm|nazizmie"); % (choćby pojawienie się %
+	href("Swastyka|swastyki"); %), % href("Adolf Hitler|Adolfie "
+	"Hitlerze"); %.
+</p>
+<p>
+	Zarazem, <b>Twitch</b> propaguje % href("LGBT"); % oraz od niedawna
+	% href("nagość"); % - za % href("Pornografia|pornografię"); % nie
+	otrzymamy więc bana.
+</p>
