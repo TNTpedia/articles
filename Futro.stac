@@ -16,7 +16,7 @@ Istnieją także futra nie pochodzące ze zwierząt (futra wegańskie).
 </p>
 
 % h(3, "Futro zwierzęce"); %
-% imagine("FutroKota.png", "Futro dolno-brzuszne kota"); %
+% imagine("KotFutro.png", "Futro dolno-brzuszne kota"); %
 <p>
 	Futro zwierzęce (naturalne) pochodzi ze % href("Zwierzęta|zwierząt"); %.
 	Każde futro zwierzęce miało kiedyś kontakt ze zwierzęciem i zostało przez
