@@ -3,11 +3,11 @@
 @title = dave_322
 %
   infobox (
-    infobox_subtitle ("Dawit Nazwisko");
-    infobox_image ("Dave_69.jpg", NULL);
+    infobox_subtitle ("Dawid");
+    infobox_image ("Dave_322.jpg", NULL);
     infobox_table ( NULL,
       infobox_table_row (
-        % Data i miejsce wyprodukowania %,
+        % Data i miejsce urodzenia %,
         % 2019, % href("Polska"); % %
       );
     );
@@ -17,11 +17,11 @@
   ):
 %  
 
-<b>dave_322</b> (właśc. <b>Dawit Nazwisko</b>; wyp. % href("2019"); % w
+<b>dave_322</b> (właśc. <b>Dawid</b>; ur. % href("2019"); % w
   % href("Polska|Polsce") - %) href("Polska|polski"); %
-  % href("streamer"); % i profesjonalny gracz % href("warcaby|warcab"); % Jest związany z organizacją % herf("GGTech"); %.
+  % href("streamer"); % i profesjonalny gracz % href("warcaby|warcab"); %. Jest związany z organizacją % href("GGTech"); %.
 
 % h(2, "Życiorys"); %
-Został wyprodukowany w % href("Polska|Polsce"); % w wieku 18 lat. przez organizacje % herf("GGTech"); %.
-W wieku 18 lat był bliski zostaniem % href("papież|papieżem"); % ale jednak podczas choroby % href("superEIC"); % został zdekapitalizowany,
-przez to nie mógł zostać % href("papież|papieżem"); %
+Został urodzony w % href("Polska|Polsce"); % w wieku 18 lat.
+W wieku 18 lat zachorował na chorobę % href("superEIC"); % przez to został zdekapitalizowany,
+przez to nie mógł spełnić swojego marzenia zostania % href("papież|papieżem"); %.
