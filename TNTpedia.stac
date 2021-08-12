@@ -1,12 +1,14 @@
 @<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
 @title = TNTpedia
 
 %
 	infobox (
-		infobox_image ( "TNTpedia.png", "Logo TNTpedia"
-		);
+		infobox_image ( "TNTpedia.png", "Logo TNTpedia" );
 		infobox_portal_internetowy ( "@http://tntpedia.xyz",
-			infobox_table_row( % Data powstania %, % 3 sierpień 2021 % );
+			infobox_table_row (
+				% Data powstania %, % 3 sierpień 2021 %
+			);
 		);
 	);
 %
