@@ -1,4 +1,14 @@
 @<#include <functions/libwiki.c>
-
 @title = TNTpedia
+
+%
+	infobox (
+		infobox_image ( "TNTpedia.png", "Logo TNTpedia"
+		);
+		infobox_portal_internetowy ( "@http://tntpedia.xyz",
+			infobox_table_row( % Data powstania %, % 3 sierpień 2021 % );
+		);
+	);
+%
+
 <b>TNTpedia</b> - % href("Szybkość|Szybka"); % % href("encyklopedia"); %.
