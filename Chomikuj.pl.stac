@@ -1,0 +1,35 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Chomikuj.pl
+
+%
+	infobox (
+		infobox_image ( "Chomikuj.png", "Logo Chomikuj.pl"
+		);
+		infobox_portal_internetowy ( "@https://chomikuj.pl",
+			infobox_table_row( % Data powstania %, % 2006 % );
+		);
+	);
+%
+
+<b>Chomikuj.pl</b> - % href("Portal internetowy|portal internetowy"); % służący
+do <s>przechowywania i udostępniania</s> chomikowania % href("plik|plików"); %.
+Został stworzony w roku % href("2006"); % przez
+% href("homik w denaturacie|homika w denaturacie"); %.
+
+% h(2, "Zasada działania serwisu"); %
+<p>
+	W serwisie można <s>przechowywać</s> chomikować różne pliki jak również
+	pobierać pliki chomikowane przez inne % href("chomik|chomiki"); %.
+	Użytkownicy % href("Microsoft Windows|tego gorszego systemu"); % mogą także
+	pobrać i zainstalować na swoim komputerze program <b>chomikbox.exe</b>
+	który doda na % href("pulpit"); % sympatycznego chomika.
+</p>
+
+% h(2, "Incydenty związane z portalem"); %
+<p>
+	Na portalu <b>Chomikuj.pl</b> znajdowało się kiedyś 31 plików
+	% href("DisStream|Norberta Gierczaka"); %, jednak % href("homik w "
+	"denaturacie"); % z powodów niewiadomych usunął je co spowodowało
+	rozprawę sądową przeciwko homikowi i wygraną przez niego.
+</p>
