@@ -17,4 +17,4 @@
 
 <b>Piotr Gryf</b> (% href("język angielski|ang."); % <i>Peter Griffin</i>)
 
-% imagine ("Piotr_Gryf_Głowa_Rodziny.png", "Piotrek w serialu Głowa Rodziny"); %
+% imagine ("Piotr_Gryf_Głowa_Rodziny.png", % Piotrek w serialu Głowa Rodziny %); %

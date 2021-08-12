@@ -10,7 +10,7 @@ znajdującego się wciąż na ciele zwierzęcia, żywego bądź też martwego.
 Istnieją także futra nie pochodzące ze zwierząt (futra wegańskie).
 
 % h(2, "Rodzaje futra"); %
-% imagine("KotFutro.png", "Futro dolno-brzuszne kota"); %
+% imagine("KotFutro.png", % Futro dolno-brzuszne kota %); %
 <p>
 	Futro ma wiele rodzajów, każde futro jest też inne. Futro dzieli się
 	głównie na futro zwierzęce (naturalne) i niezwierzęce (wegańskie).

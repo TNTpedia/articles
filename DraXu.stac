@@ -75,8 +75,8 @@ Autor wielu % href("Program komputerowy|programów komputerowych"); %.
 
 </p>
 
-% imagine("DraXuKonsumuje.png", "DraXu udaje włoskiego krytyka kulinarnego (rzadkie ujęcie przedstawiające szczęście)"); %
+% imagine("DraXuKonsumuje.png", % DraXu udaje włoskiego krytyka kulinarnego (rzadkie ujęcie przedstawiające szczęście) %); %
 
-% imagine("DraXuGenerator.png", "DraXu generuje filmy na swój kanał na YouTube przy użyciu AI napisanego w Asemblerze na procesor kalkulatora TI83 (kod źródłowy nieznany)"); %
+% imagine("DraXuGenerator.png", % DraXu generuje filmy na swój kanał na YouTube przy użyciu AI napisanego w Asemblerze na procesor kalkulatora TI83 (kod źródłowy nieznany) %); %
 
-% imagine("DraXuStatue.png", "DraXu w muzeum (jak on się tam znalazł?)"); %
+% imagine("DraXuStatue.png", % DraXu w muzeum (jak on się tam znalazł?) %); %

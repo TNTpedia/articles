@@ -29,4 +29,4 @@ polski % href("streamer"); % % href("Płeć|płci"); %
 % href("Kobieta|niemęskoosobowej"); %, % href("Gitarzysta|gitarzystka"); %.
 Prowadzi % href("kanał"); % na platformie % href("Twitch"); %.
 
-% imagine("CienkaAluzjaNarodowiec.png", "Łucja prezentuje poglądy narodowo-bydgoskie"); %
+% imagine("CienkaAluzjaNarodowiec.png", % Łucja prezentuje poglądy narodowo-bydgoskie %); %

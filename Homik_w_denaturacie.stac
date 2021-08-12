@@ -1,6 +1,5 @@
 @<#include <functions/libwiki.c>
 @<#include <functions/infobox.c>
-@<#include <functions/imagine.c>
 @title = homik w denaturacie
 
 %
