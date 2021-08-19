@@ -1,0 +1,29 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Buleczka
+
+%
+  infobox (
+    infobox_subtitle ( "Weronika" );
+    infobox_table ( NULL,
+			infobox_table_row (
+				% Data i miejsce urodzenia %,
+				% 6 stycznia, % href("Polska"); %
+        );
+			infobox_table_row (
+				% Rodzaj %, % niemęskoosobowej %
+			);
+    );
+  );
+%
+
+<b>Buleczka<b/> (właść. <b>Weronika</b>) -  moderacia u % href("CienkaAluzja") % i pro gracz w  % href("VALORANT") %
+
+% h(2, "Życiorys") %
+Urodziła sie w wieku 0 lat w % href("Polska|Polsce"). W wieku 2 lat miała problemy z żołądkiem przez co wylondowała w % href("szpitalu") %.
+W wieku 5 lat wbiegła na % href("futryne") %, przez ten % href("incydend") ma blizne na dziś. 
+Nauczyła sie jeżdzic na % href("rower|rowerze") % i % href("hulajnoga|hulajnoce) % w wieku 6 lat.
+
+% h(2, "osiągnięcia")
+% href("zawody plywackie") - dwa razy pierwrze miejsce i raz drugie
+% href("VALORANT") % - global offensive
