@@ -8,22 +8,22 @@
     infobox_table ( NULL,
 			infobox_table_row (
 				% Data i miejsce urodzenia %,
-				% 6 stycznia, % href("Polska"); %
+				% 6 stycznia, % href("Polska");
         );
 			infobox_table_row (
-				% Rodzaj %, % niemęskoosobowej %
+				% Rodzaj %, % niemęskoosobowy %
 			);
     );
   );
 %
 
-<b>Buleczka<b/> (właść. <b>Weronika</b>) -  moderacja u % href("CienkaAluzja") % i pro gracz w  % href("VALORANT") %
+<b>Buleczka<b/> (właść. <b>Weronika</b>) -  moderator u % href("CienkaAluzja") % i pro gracz w  % href("VALORANT") %
 
 % h(2, "Życiorys") %
-Urodziła się w wieku 0 lat w % href("Polska|Polsce"). W wieku 2 lat miała problemy z żołądkiem przez co wylądowała w % href("szpitalu") %.
+W wieku 2 lat miała problemy z żołądkiem przez co wylądowała w % href("szpitalu") %.
 W wieku 5 lat wbiegła na % href("futrynę") %, przez ten % href("incydent") ma bliznę na dziś. 
-Nauczyła sie jeżdzic na % href("rower|rowerze") % i % href("hulajnoga|hulajnoce) % w wieku 6 lat.
+Nauczyła sie jeździć na % href("rower|rowerze") % i % href("hulajnoga|hulajnoce) % w wieku 6 lat.
 
-% h(2, "osiągnięcia")
-% href("zawody pływackie") - dwa razy pierwsze miejsce i raz drugie
-% href("VALORANT") % - global offensive
+% h(2, "Osiągnięcia")
+- % href("zawody pływackie") - dwa razy pierwsze miejsce i raz drugie
+- % href("VALORANT") % - global offensive
