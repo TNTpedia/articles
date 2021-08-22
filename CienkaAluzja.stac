@@ -10,7 +10,7 @@
 		infobox_table ( NULL,
 			infobox_table_row (
 				% Data i miejsce urodzenia %,
-				% 2004, % href("Polska");
+				% 2004, % href("Wrocław"); %, % href("Polska");
 			);
 			infobox_table_row (
 				% Płeć %,
@@ -24,9 +24,19 @@
 %
 
 <b>CienkaAluzja</b> (% href("język angielski|ang."); % <i>ThinAllusion</i>
-właśc. <b>Łucja</b>; ur. % href("2004"); % w % href("Polska|Polsce"); %) -
+właśc. <b>Łucja</b>; ur. % href("2004"); % we % href("Wrocław|Wrocławiu"); %) -
 polski % href("streamer"); % % href("Płeć|płci"); %
 % href("Kobieta|niemęskoosobowej"); %, % href("Gitarzysta|gitarzystka"); %.
 Prowadzi % href("kanał"); % na platformie % href("Twitch"); %.
 
 % imagine("CienkaAluzjaNarodowiec.png", % Łucja prezentuje poglądy narodowo-bydgoskie %); %
+
+% h(2, "Życiorys") %
+% h(3, "Wczesne dzieciństwo") %
+Urodziła i wychowała się we % href("Wrocław|Wrocławiu") %, mieszkając z dziadkami, rodzicami i czwórką rodzeństwa. 
+Uczęszczała do % href("szkoła podstawowa|szkoły podstawowej") % w wieku 5 lat, rok wcześniej niż pozostali i przez to w niej dobrze nie radziła.
+Po ukończeniu % href("szkoła podstawowa|szkoły podstawowej") % rozpoczęła naukę w % href("gimnazjum") % nr 13 we % href("Wrocław|Wrocławiu") %. 
+Do % href("klasy") % % href("europejskiej") %. 
+% h(3, "późne dzieciństwo i teraźniejszość") %
+Po ukończeniu % href("gimnazjum") % rozpoczęła naukę w % href("liceum") % na profilu % href("matematyka|matematyczno"); %-% href("fizyka|fizyczno"); %-% href("informatyka|informatycznym"); %).
+Aktualnie streamuje na platformie % href("Twitch"); %. Planuje wyemigrować z % href("Polska|Polski") % do % href("Szwecja|Szwecji") %.
