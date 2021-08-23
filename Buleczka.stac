@@ -21,7 +21,7 @@
 
 % h(2, "Życiorys"); %
 W wieku 2 lat miała problemy z żołądkiem przez co wylądowała w % href("szpital|szpitalu"); %.
-W wieku 5 lat wbiegła w % href("futryna|futrynę"); %, przez ten % href("incydent"); ma bliznę na dziś. 
+W wieku 5 lat wbiegła w % href("futryna|futrynę"); %, przez ten % href("incydent"); % ma bliznę na dziś. 
 Nauczyła sie jeździć na % href("rower|rowerze"); % i % href("hulajnoga|hulajnodze"); % w wieku 6 lat.
 
 % h(2, "Osiągnięcia"); %
