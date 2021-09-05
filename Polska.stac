@@ -4,10 +4,90 @@
 
 %
 	infobox (
-		infobox_kraj ( "!Rzeczpospolita Polska", "Warszawa"
+		infobox_table ( "!Rzeczpospolita Polska",
+			infobox_table_row ( href("Stolica");                , href("Warszawa"); );
+			infobox_table_row ( href("Prezydent");              , %<s>% href("Mariusz Max Kolonko"); %</s> % href("Andrzej Duda"); );
+			infobox_table_row ( href("Premier");                , href("Mateusz Morawiecki"); );
+			infobox_table_row ( href("Krul");                   , href("Janusz Korwin-Mikke"); );
+			infobox_table_row ( href("Język");                  , href("język polski|polski"); );
+			infobox_table_row ( href("Waluta");                 , href("PLN|złoty polski"); );
+			infobox_table_row ( href("Religia");                , href("katolicyzm"); );
+			infobox_table_row ( href("Numer kierunkowy");       , href("+48"); );
 		);
 	);
 %
 
+<b>Polska</b> (<b>Rzeczpospolita Polska</b>) - % href("kraj"); %
+leżący pośrodku % href("Europa|Europy"); % położony w
+% href("Europa|Europie"); % i graniczący z krajami położonymi w
+% href("Europa|Europie"); %, % href("Azja|Azji"); % oraz z %
+href("Morze|Morzem"); % % href("Morze Bałtyckie|Bałtyckim"); %.
+
+% h(2, "Życiorys"); %
 <p>
-<b>Polska</b> - kraj.
+	Utworzony został w roku % href("966"); % (<b>nie mylić z 1966 bądź
+	2966!</b>) przez polskiego księcia % href("Mieszko I|Mieszka I"); %.
+	Wtedy też przyjął % href("chrzest"); % z polecenia ówczesnego
+	księcia. 59 lat później, w roku % href("1025"); %
+	% href("księstwo"); % przeobraziło się w % href("królestwo"); %.
+</p>
+<p>
+	Niestety, 770 lat po tym wydarzeniu % href("Polska"); % została %
+	href("Rozbiory Polski|rozebrana"); % przez swoich %
+			infobox_table_row ( % Waluta %, href("PLN|złoty polski"); );
+	href("sąsiad|sąsiadów"); % <s>jak w jakimś tanim
+	% href("burdel|burdelu"); %</s>.
+</p>
+<p>
+	Po 123 latach od rozebrania Polski, została ona spowrotem %
+	href("Odzyskanie niepodległości przez Polskę|zebrana"); %. Zmieniła
+	ona wtedy swoją nazwę na <b>% href("II Rzeczpospolita|"
+	"II Rzeczpospolitą"); %</b>.
+	Jako że w % href("1933"); % roku do władzy doszedł światowej sławy
+	% href("Adolf Hitler|austriacki akwarelista"); %, to po 21 latach
+	istnienia zebranego spowrotem państwa nastąpiło jego
+	% href("Pakt Ribbentrop-Mołotow|ponowne rozebranie"); %.
+	Warto wspomnieć, że po 2 latach od zebrania (a więc w roku %
+	href("1920"); %) % href("Cud nad Wisłą|polacy uratowali dupę "
+	"zachodniemu światu"); %.
+</p>
+<p>
+	Przez 6 lat ziemie polskie znajdowały się pod %
+	href("okupacja|okupancją"); % % href("III rzesza|hitlerowsko"); %-%
+	href("ZSRR|bolszewicką"); %. Po zakończeniu okupacji %
+	href("Polska"); % otrzymała całkowicie nowe terytoria w prezencie od
+	% href("ZSRR"); % całkowicie % href("scam|za darmo"); %! Władze na
+	terytorium Polski przejęła grupa % href("PZPR"); % S. A. Tak
+	<s>utworzony</s> odrodzony kraj przyjął jakże piękną nazwę „<b>% href(
+	"Polska Rzeczpospolita Ludowa"); %</b>™”.
+</p>
+<p>
+	Po 33 latach, po raz pierwszy w historii Polski na %
+	href("papież|papieża"); % został wybrany % href("Polak"); %.
+	Sprawiło to że władze kraju znajdującego się w tamtych czasach na
+	ziemiach polskich dostały % href("ból dupy|bólu dupy"); % i
+	% href("Zamach na Jana Pawła II|chcieli go zabić"); %.
+	Po 3 latach od wyboru % href("papież|papieża"); % % href("Jan Paweł II|"
+	"Jana Pawła II"); % władze PRL wprowadziły % href("stan wojenny"); %
+	trwający przez 2 lata.
+</p>
+<p>
+	Po 6 latach od zakończenia stanu wojennego w wyniku % href("reforma "
+	"ustrojowa|reform ustrojowych"); % <b>Polska Rzeczpospolita Ludowa</b>
+	została oficjalnie usunięta i przekształcona w % href("III Rzeczpospolita|"
+	"III Rzeczpospolitą"); %.
+</p>
+
+% h(2, "Sąsiedzi"); %
+<p>
+	Polska graniczy z następującymi krajami:
+	<ul>
+		<li>% href("Niemcy"); %, proszę pana!</li>
+		<li>% href("Czechy|Czecho"); href("słowacja"); %</li>
+		<li>% href("Ukraina"); %</li>
+		<li>% href("Białoruś"); %</li>
+		<li>% href("Litwa"); %</li>
+		<li>% href("Rosja"); %</li>
+		<li>% href("Morze Bałtyckie"); %</li>
+	</ul>
+</p>
