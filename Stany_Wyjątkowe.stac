@@ -1,0 +1,23 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Stany Wyjątkowe
+
+%
+	infobox (
+		infobox_table ( "!Stany Wyjątkowe Europy Wschodniej",
+			infobox_image     ( "Stany_Wyjątkowe.png"           , "Flaga Stanów Wyjątkowych" );
+			infobox_table_row ( href("Stolica");                , href("Zabłocie Kolonia"); );
+			infobox_table_row ( href("Numer kierunkowy");       , % 112 % );
+			infobox_table_row ( href("Prezydent");              , href("Jarosław Kaczyński"); );
+			infobox_table_row ( href("PKB");                    , % 400 mln zł (budownictwo, przemysł druciany) % );
+		);
+	);
+%
+
+<b>Stany Wyjątkowe</b>, <b>Stany Wyjątkowe Europy Wschodniej</b>, potocznie
+także <b>Stany</b> - % href("państwo federacyjne"); % powstałe
+% href("31 sierpnia"); % % href("2021"); % roku, składające się ze 183
+% href("wieś|wsi"); % i miasteczek, graniczące od % href("zachód|zachodu"); %
+z % href("Polska|Polską"); %, a od % href("wschód|wschodu"); % z
+% href("Białoruś|Białorusią"); %. Ojcami założycielami są
+% href("Mariusz Kamiński"); %, % href("Mariusz Błaszczak"); %.
