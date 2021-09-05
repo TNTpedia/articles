@@ -5,6 +5,7 @@
 %
 	infobox (
 		infobox_table ( "!Rzeczpospolita Polska",
+			infobox_image     ( "Polska.png"                    , "Flaga Polski" );
 			infobox_table_row ( href("Stolica");                , href("Warszawa"); );
 			infobox_table_row ( href("Prezydent");              , %<s>% href("Mariusz Max Kolonko"); %</s> % href("Andrzej Duda"); );
 			infobox_table_row ( href("Premier");                , href("Mateusz Morawiecki"); );
