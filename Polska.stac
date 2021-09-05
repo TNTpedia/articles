@@ -34,7 +34,6 @@ href("Morze|Morzem"); % % href("Morze Bałtyckie|Bałtyckim"); %.
 <p>
 	Niestety, 770 lat po tym wydarzeniu % href("Polska"); % została %
 	href("Rozbiory Polski|rozebrana"); % przez swoich %
-			infobox_table_row ( % Waluta %, href("PLN|złoty polski"); );
 	href("sąsiad|sąsiadów"); % <s>jak w jakimś tanim
 	% href("burdel|burdelu"); %</s>.
 </p>
