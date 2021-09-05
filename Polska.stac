@@ -85,7 +85,7 @@ href("Morze|Morzem"); % % href("Morze Bałtyckie|Bałtyckim"); %.
 		<li>% href("Niemcy"); %, proszę pana!</li>
 		<li>% href("Czechy|Czecho"); href("słowacja"); %</li>
 		<li>% href("Ukraina"); %</li>
-		<li>% href("Białoruś"); %</li>
+		<li><s>% href("Białoruś"); %</s> % href("Stany Wyjątkowe"); %</li>
 		<li>% href("Litwa"); %</li>
 		<li>% href("Rosja"); %</li>
 		<li>% href("Morze Bałtyckie"); %</li>
