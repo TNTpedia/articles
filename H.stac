@@ -5,7 +5,7 @@
 %
   infobox (
     infobox_subtitle ("H");
-    infobox_image ( "H.png", "H" );
+    infobox_image ( "H.jpg", "H" );
   );
 %
 
