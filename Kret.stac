@@ -72,3 +72,8 @@ się w % href("łono|łonie"); % % href("matka|matki"); %.
 	pokarmowy. Większość badanych czuła się świetnie po wypiciu szklanki napoju.
 	Badani najgorzej zareagowali na % href("smak koperkowy"); %.
 </p>
+
+% h(2, "Linki zewnętrzne"); %
+<p>
+	% href("@https://reddit.com/r/kret|Forum sympatyków i kustoszy Kreta"); %
+</p>
