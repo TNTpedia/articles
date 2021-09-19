@@ -1,0 +1,61 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+
+@title = Kret
+
+%
+	infobox (
+		infobox_subtitle ("Krtekus Drinkablus");
+		infobox_image ( "Kret.png", "Kret (2021)"
+		);
+
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Najpopularniejszy smak %, % truskawkowy %
+			);
+		);
+	);
+%
+
+<b>Kret</b> (% href("język łaciński|łac."); % <i>Krtekus Drinkablus</i>) -
+% href("Cyklon B|gazowany"); % % href("napój"); % dostępny w wielu smakach
+i kolorach. Nadaje się do udrożniania % href("rura|rur"); %, np. rur PCV czy
+też przewodu pokarmowego. Stosowany również jako lek na
+% href("demencja|demencję"); % oraz % href("przeziębienie"); %. Niezalecany dla
+% href("kobieta|kobiet"); % w % href("ciąża|ciąży"); % z powodu możliwości
+% href("uzależnienie|uzależnienia"); % % href("dziecko|dziecka"); % znajdującego
+się w % href("łono|łonie"); % % href("matka|matki"); %.
+
+% h(2, "Popularne rodzaje"); %
+<p>
+	Ulubionym smakiem korespondentów TNTpedii jest kret truskawkowy. Drugie
+	miejsce pod nim zajmuje smak jagodowy. Najmniej popularny jest smak
+	koperkowy.
+</p>
+
+% h(2, "Użycie kreta"); %
+<p>
+	Kret używany jest w wielu branżach, np. w % href("medycyna|medycynie"); %,
+	% href("informatyka|informatyce"); % czy % href("restauracja|restauracjach"); %.
+	% href("Szczepionka"); % na % href("SARS-CoV-3"); % zawiera substancję
+	czynną w postaci 23 mg kreta.
+</p>
+<p>
+	Na opakowaniu kreta możemy przeczytać, że profilaktycznie należy stosować
+	go raz w tygodniu.
+</p>
+
+% h(2, "Do jakich rur można używać kreta?"); %
+<p>
+	Nie do wszystkich rur można stosować kreta. Preparat zawiera
+	% href("wodorotlenek sodu"); %, który w kontakcie z
+	% href("aluminium"); % tworzy związek rozpuszczalny w wodzie,
+	dlatego jeżeli posiadamy instalacje aluminiowe, należy skorzystać z innego
+	sposobu na udrażnianie odpływów. Wbrew powszechnym opiniom możemy używać
+	kreta do plastikowych rur i syfonów. Nie wpłynie on w żadnym stopniu na
+	naszą instalację. Podobnie jest w przypadku rur z % href("PCV"); %.
+</p>
+<p>
+	9 na 11 naukowców z kolei potwierdza świetne działanie kreta na przewód
+	pokarmowy. Większość badanych czuła się świetnie po wypiciu próbki.
+</p>
