@@ -1,0 +1,16 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = H
+
+%
+  infobox (
+    infobox_subtitle ("H");
+    infobox_image ( "H.png", "H" );
+  );
+%
+
+<b>H</b> jest ósmą literą % href("alfabet łaciński|alfabetu łacińskiego"); %.
+
+% h(2, "H w języku hiszpańskim"); %
+H w % href("języku hiszpańskim"); % k*rwa jest nie me, widzisz H ignorujesz k*rwa tak jakby tam...
+wyobraź sobie ze H to jest % href("mózg"); % % href("Monika kociolek|Moniki"); % nie istnieje k*rwa nie istnieje nie czytasz tego.
