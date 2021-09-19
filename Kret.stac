@@ -31,6 +31,18 @@ się w % href("łono|łonie"); % % href("matka|matki"); %.
 	Ulubionym smakiem korespondentów TNTpedii jest kret truskawkowy. Drugie
 	miejsce pod nim zajmuje smak jagodowy. Najmniej popularny jest smak
 	koperkowy.
+	%
+		table(
+			( "Smak",                   "Liczba testujących którym smakowało",      "Liczba testujących którym nie smakowało",      "Liczba wszystkich testujących" ),
+			/*************************|*******************************************|***********************************************|*********************************/
+			{ "truskawkowy",            "843",                                      "68",                                           "911" },
+			{ "jagodowy",               "761",                                      "150",                                          "911" },
+			{ "cytrynowy",              "703",                                      "208",                                          "911" },
+			{ "pomarańczowy",           "430",                                      "481",                                          "911" },
+			{ "śmietankowy",            "119",                                      "791",                                          "910" },
+			{ "koperkowy",              "3",                                        "2309",                                         "7" },
+		);
+	%
 </p>
 
 % h(2, "Użycie kreta"); %
@@ -57,5 +69,6 @@ się w % href("łono|łonie"); % % href("matka|matki"); %.
 </p>
 <p>
 	9 na 11 naukowców z kolei potwierdza świetne działanie kreta na przewód
-	pokarmowy. Większość badanych czuła się świetnie po wypiciu próbki.
+	pokarmowy. Większość badanych czuła się świetnie po wypiciu szklanki napoju.
+	Badani najgorzej zareagowali na % href("smak koperkowy"); %.
 </p>
