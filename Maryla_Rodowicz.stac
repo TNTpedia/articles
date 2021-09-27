@@ -20,3 +20,12 @@ ur. % href("8 grudnia"); % % href("1000 p.n.e."); %) - znana %
 href("polska"); % % href("Piosenkarz|piosenkarka"); % urodzona w
 % href("Zielona Góra|Zielonej Górze"); %. Autorka % href("Piosenka|"
 "piosenek"); % dla dzieci i dorosłych.
+
+% h(2, "Ciekawostki"); %
+<p>
+	Nigdy nie miała zwierzaka. Kiedyś chciała mieć żółwia, ale on żyje tylko
+	200 lat...
+</p>
+<p>
+	Człowiek przywiąże się do takiego, a on nagle umiera...
+</p>
