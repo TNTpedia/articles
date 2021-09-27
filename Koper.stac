@@ -1,0 +1,27 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@<#include <functions/imagine.c>
+
+@title = Koper
+
+%
+	infobox (
+		infobox_subtitle ("Anethum");
+		infobox_image ( "Koper.png", "Koper podany na ziemniakach"
+		);
+
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Najpopularniejszy smak %, % href("koperkowy"); %
+			);
+		);
+	);
+%
+
+<b>Koper</b> (% href("język łaciński|łac."); % <i>Anethum</i>) -
+potocznie zwany <b>koperkiem</b> - jedna z najpopularniejszych
+% href("roślina zielona|roślin zielonych"); % używanych jako
+% href("dodatek"); % do wielu % href("potrawa|potraw"); %. Najczęściej
+spotykany w % href("ziemniak|ziemniakach"); % i % href("lód|lodach"); %.
+
+% imagine("Lody_koperkowe.png", % % href("Lody koperkowe"); % %); %
