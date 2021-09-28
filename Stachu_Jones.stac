@@ -27,15 +27,3 @@
 - % href("Polska|polski"); % % href("aktor"); % grający w filmie %
 href("Magnaci i Czarodzieje"); %. Jako jedyny człowiek na świecie ma
 szanse rywalizować z % href("Chuck Norris|Cezarym Norysowiczem"); %.
-
-% h(2, "Cytaty"); %
-% cytat("Dowiesz się w swoim czasie... Pi**dol się!"); %
-% cytat("GÓWNO! DO ROBOTY!"); %
-% cytat("Idź się umyj, boś paskudna"); %
-% cytat("Jedną w życiu dziurkę miałem, jedno w życiu pokochałem. I to był ten traf niewielki, a to dziurka od butelki."); %
-% cytat("O nie! Artefakt mocy jest w króla zamku Leona."); %
-% cytat("O, KU***AAAA...."); %
-% cytat("Okej!"); %
-% cytat("Pić me jabole? Bo ci przypi**dolę!"); %
-% cytat("Spi**dalaj z mojej ziemi!"); %
-% cytat("Wyszkolę Cię w jeden księżyc!"); %
