@@ -1,3 +1,5 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
 @title = Płyn do chłodnic
 
 <b>Płyn do chłodnic</b> (% href("język łaciński|łac."); % <i>radiator fluidum</i>) - wykwintny % href("trunek"); % wysokoprocentowy uznany za doskonały % href("smak"); %, % href("pożywność"); % i % href("efekt orzeźwienia"); %. Szczególnie uznany na % href("śląsk|śląsku"); %, % href("mazowsze|mazowszu"); %, % href("lubelszczyzna|lubelszczyźnie"); %, % href("tatra|tatrach"); %, % href("Obwód Kaliningradzki|obwodzie kaliningradzkim"); %, % href("Stany Wyjątkowe|stanach wyjątkowych"); % i % href("Wybrzeże Kości Słoniowej|wybrzeżu kości słoniowej"); %. Jeden z prawdopodobnych składników % href("syrop na demencje|syropu na demencje™"); %.
