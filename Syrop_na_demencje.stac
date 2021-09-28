@@ -1,0 +1,52 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+
+@title = Syrop na demencje
+
+%
+	infobox (
+		infobox_subtitle ("Dementias surrepo");
+		infobox_image ( "Syrop_na_demencje.png", "Syrop na demencje (2021)"
+		);
+
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Najpopularniejszy smak %, % ananasowy %
+			);
+		);
+	);
+%
+
+<b>Syrop na demencje</b> (% href("język łaciński|łac."); % <i>Dementias
+surrepo</i>) - odkryty w % href("2017"); % przez % href("DraXu|draxymiliana");
+% potężny płyn o wysokiej mocy i wielu przydatnych właściwościach.
+% href("Receptura"); % % href("nie"); % została opublikowana, przez co 72% PERCENT %
+składników nie jest znana.
+
+% h(2, "Przypuszczalne składniki syropu"); %
+Dokładny skład nie jest znany, lecz w wyniku wycieków odkryto, że
+prawdobodobnymi składnikami mogą być m.in:
+<ul>
+	<li>% href("kwas mrówkowy"); %</li>
+	<li>% href("płyn do chłodnic"); % marki % href("prestone"); %</li>
+	<li>% href("szczurza sierść"); %</li>
+	<li>% href("ananas"); %</li>
+	<li>% href("uran"); %</li>
+</ul>
+
+% h(2, "Skutki spożycia"); %
+<ul>
+	<li>% href("obstrukcja"); %</li>
+	<li>% href("dziury w pamięci"); %</li>
+	<li>wstręt do % href("żelazo|żelaza"); %</li>
+	<li>wrażliwość na % href("tlen"); %</li>
+	<li>przyśpieszone gojenie się ran (również wewnętrznych)</li>
+	<li>utrata % href("włosy łonowe|włosów łonowych"); %</li>
+	<li>% href("hiperman|nadludzki"); % % href("refleks"); %</li>
+	<li>obumieranie zakończeń nerwowych</li>
+	<li>zwiększona tolerancja na ból</li>
+	<li>wyostrzenie się % href("węch|węchu"); %</li>
+	<li>znaczna poprawa nastroju</li>
+	<li>zwiększony wzrost % href("włosy na stopach|włosów na stopach"); %</li>
+	<li>lekko poprawiona wizja w ciemności</li>
+</ul>
