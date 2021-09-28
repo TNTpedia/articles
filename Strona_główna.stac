@@ -12,6 +12,11 @@
 		musi zostać zatwierdzona przez administrację. Zapraszamy do
 		edycji oraz korzystania z tej wielkiej bazy wiedzy!
 	</p>
+	<p>
+		Na TNTpedii znajduje się aktualnie <b>%{
+			system("ls in | grep -v '^Specjalna:' | wc -l");
+		}%</b> artykułów.
+	</p>
 </div>
 
 <style>
