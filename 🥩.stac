@@ -1,0 +1,7 @@
+@<#include <functions/libwiki.c>
+@title = 🥩
+<b>🥩</b> (% href("język łaciński|łac."); % <i>🥩</i>) - % href("🥩"); %
+
+% h(2, "🥩"); %
+
+% href("🥩|🥩"); %
