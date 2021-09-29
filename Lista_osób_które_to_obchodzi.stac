@@ -1,0 +1,20 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+
+@title = Lista osób które to obchodzi
+
+%
+	infobox (
+		infobox_subtitle ("A list of populus, qui de hoc pertinet");
+		infobox_image ( "Lista_osób_które_to_obchodzi.png", "Lista osób które to obchodzi"
+		);
+	);
+%
+
+<b>Lista osób które to obchodzi</b> (% href("język łaciński|łac."); % <i>A list
+of populus, qui de hoc pertinet</i>) - % href("lista osób które to obchodzi");
+%.
+
+% h(2, "Zawartość listy"); %
+<ul>
+</ul>
