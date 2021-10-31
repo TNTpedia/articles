@@ -1,0 +1,19 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Arbuzczłowiek
+
+% infobox (
+/**/infobox_image (
+		"Arbuzczłowiek.png", "Arbuzczłowiek zauważony w Luksemburgu 29 IV 2007"
+/**/);
+		infobox_table ( NULL,
+			infobox_table_row (
+				% Wzrost %, % 203 cm %
+			);
+			infobox_table_row (
+ 				% Długość%, % 41 cm %
+			);
+	);
+); %
+
+<b>Arbuzczłowiek</b> (% href("język łaciński|łac."); % <i>homoarbus</i>) - znany również jako Marcin - % href("mężczyzna"); % pochodzenia % href("Mongolia|mongolskiego"); %. Zawsze ma przy sobie przynajmniej 7 % href("arbuz|arbuzów"); % i bardzo chętnie % href("pieniądze|za darmo"); %% href("socjalizm|dzieli się"); % nimi z innymi. Najczęściej pojawia się, gdy ktoś ma ochotę na % href("arbuz"); %. Widziany był między innymi w: % href("Berlin|Berlinie"); %, % href("Poznań|Poznaniu"); %, % href("Lwów|Lwowie"); %, % href("Luksemburg|Luksemburgu"); %, % href("Chicago"); %, % href("Cartagena|Cartagenie"); %, % href("Fujisawa|Fujisawie"); %, % href("Tiraspol|Tiraspolu"); % oraz % href("Abuja|Abudży"); %
