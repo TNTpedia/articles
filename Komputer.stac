@@ -1,0 +1,17 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Komputer
+
+%
+  infobox (
+    infobox_image ("Komputer.png", "Komputer");
+  );
+%
+
+<b>Komputer</b> (% href("język angielski|ang."); % <i>Computer</i>); Urządzenie służące do wysyłanie % href("E-mail"); %,
+wypełnianie tabelek w programie % href("Microsoft Excel"); % i rysowaniu % herf("kartka świąteczna|kartek świątecznych"); %
+w programie % href("Paint"); %.
+
+% h(2, "Budowa Komputera"); %
+Komputer składa się z % href("Monitor|monitora"); %, % href("Klawiatura|klawiatury"); %, % href("Myszka|myszki"); %, 
+% href("Głośnik|głośnika"); %, % href("Komputer|PC"); %.
