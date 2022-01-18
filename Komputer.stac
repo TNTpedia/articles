@@ -1,0 +1,26 @@
+@<#include <functions/libwiki.c>
+@<#include <functions/infobox.c>
+@title = Komputer
+
+%
+  infobox (
+    infobox_image ("Komputer.png", "Komputer");
+  );
+%
+
+<b>Komputer</b> (% href("język angielski|ang."); % <i>Computer</i>) Urządzenie służące do wysyłanie % href("E-mail"); %,
+wypełnianie tabelek w programie % href("Microsoft Excel"); % i rysowaniu % herf("kartka świąteczna|kartek świątecznych"); %
+w programie komputerowym % href("Paint"); %.
+
+% h(2, "Budowa Komputera"); %
+Komputer składa się z % href("Monitor|monitora"); %, % href("Klawiatura|klawiatury"); %, % href("Myszka|myszki"); %, 
+% href("Głośnik|głośnika"); %.
+
+% h(2, "Historia"); %
+Jeszcze nie dawno w roku % href(1945r); % powstał pierwsze komputer ENIAC, służył do liczenia skomplikowanych działań % href(Matematyka|matematycznych); %.
+% href(1957r); % przy pomocy kilku % href(Nigeria|Nigeryjskich); % komputerów znany
+ % href(Fizyk|fizyk); % i % href(Programista|programista); % % href(Izak Hujon); % zrobił prototyp % href(Internet|internetu); % % href(HUJAnet); %,
+słuzonczyh do komunikowania sie z odległymi od siebie komputerami.
+W roku % href(1963r|1963); % zazdrośni amerykanie stworzyli swoją podrupke % href(HUJAnet); %'u % href(ARPANET); %.
+Po przez fuzje % href(ARPANET); %'u i % href(HUJAnet); %'u w % href(1969r); % powstał % href(Internet) %.
+ % href(1975r); % powstał pierwszy komputer osobisty % href(ALTAIR 8800); %, a pierwszy laptop powstał w % href(1979); % nazywał się % href(Grid Compass Computer 1109); %.
